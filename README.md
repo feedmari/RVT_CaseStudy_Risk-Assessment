@@ -9,3 +9,5 @@ The 2 pdfs contain all the specific provided to us about the case study. We were
 ## Authors
 
 * **Marco Mancini** - https://www.linkedin.com/in/marco-mancini-6b2969108/
+* **Federico Marinelli** - https://www.linkedin.com/in/feedmari/
+* **Federico Giannoni** 
